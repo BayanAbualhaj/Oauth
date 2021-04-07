@@ -1,4 +1,4 @@
-const URL = 'https://www.facebook.com/v4.0/dialog/oauth';
+const URL = 'https://www.facebook.com/v10.0/dialog/oauth';
 const options = {
   client_id: 907969493332194,
   redirect_uri: 'http://localhost:3000/auth_',
